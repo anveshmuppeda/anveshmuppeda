@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [⎈ Azure DevOps — Self Hosted Agents on Kubernetes — PART-5 ⎈](https://medium.com/@muppedaanvesh/azure-devops-self-hosted-agents-on-kubernetes-part-5-4289775a8ddd?source=rss-15b2de10f77d------2)
 - [Migrating Angular &amp; .NET Docker Environment to Kubernetes](https://medium.com/@muppedaanvesh/migrating-angular-net-docker-environment-to-kubernetes-8f010b597b91?source=rss-15b2de10f77d------2)
 - [️ Exploring Types of Routing-Based Ingresses in Kubernetes⎈](https://medium.com/@muppedaanvesh/%EF%B8%8F-exploring-types-of-routing-based-ingresses-in-kubernetes-da56f51b3a6b?source=rss-15b2de10f77d------2)
 - [Dynamic Docker Environments: Angular &amp; .NET Edition](https://medium.com/@muppedaanvesh/dynamic-docker-environments-angular-net-edition-54f330c581aa?source=rss-15b2de10f77d------2)
 - [Mastering AWS Infra Provisioning: Explore Different Deployment Paths](https://medium.com/@muppedaanvesh/mastering-aws-infra-provisioning-explore-different-deployment-paths-ec896c83026b?source=rss-15b2de10f77d------2)
-- [⎈ A Hands-On Guide to Kubernetes Ingress Nginx](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-ingress-nginx-7c4c5b45eb89?source=rss-15b2de10f77d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
