@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Azure DevOps —PART-1](https://medium.com/@muppedaanvesh/mastering-azure-devops-part-1-b34c05470bf5?source=rss-15b2de10f77d------2)
+- [️ Mastering Kubernetes ConfigMaps⎈](https://medium.com/@muppedaanvesh/%EF%B8%8F-mastering-kubernetes-configmaps-accced50e69a?source=rss-15b2de10f77d------2)
 - [Secure Your Kubernetes Apps: Hands-On Basic Authentication with Ingress⎈](https://medium.com/@muppedaanvesh/secure-your-kubernetes-apps-hands-on-basic-authentication-with-ingress-55bc6dfeb1e5?source=rss-15b2de10f77d------2)
 - [⎈ Azure DevOps — Self Hosted Agents on Kubernetes — PART-5 ⎈](https://medium.com/@muppedaanvesh/azure-devops-self-hosted-agents-on-kubernetes-part-5-4289775a8ddd?source=rss-15b2de10f77d------2)
 - [Migrating Angular &amp; .NET Docker Environment to Kubernetes](https://medium.com/@muppedaanvesh/migrating-angular-net-docker-environment-to-kubernetes-8f010b597b91?source=rss-15b2de10f77d------2)
-- [️ Exploring Types of Routing-Based Ingresses in Kubernetes⎈](https://medium.com/@muppedaanvesh/%EF%B8%8F-exploring-types-of-routing-based-ingresses-in-kubernetes-da56f51b3a6b?source=rss-15b2de10f77d------2)
-- [Dynamic Docker Environments: Angular &amp; .NET Edition](https://medium.com/@muppedaanvesh/dynamic-docker-environments-angular-net-edition-54f330c581aa?source=rss-15b2de10f77d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
