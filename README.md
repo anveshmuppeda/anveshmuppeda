@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [⎈ A Hand-On Guide to Kubernetes RBAC With a User Creation ️](https://medium.com/@muppedaanvesh/a-hand-on-guide-to-kubernetes-rbac-with-a-user-creation-%EF%B8%8F-1ad9aa3cafb1?source=rss-15b2de10f77d------2)
 - [Implementing Canary Deployment in Kubernetes ⎈](https://medium.com/@muppedaanvesh/implementing-canary-deployment-in-kubernetes-0be4bc1e1aca?source=rss-15b2de10f77d------2)
 - [⎈ A Hand-On Guide to Kubernetes Custom Resource Definitions &lpar;CRDs&rpar; With a Practical Example ️](https://medium.com/@muppedaanvesh/a-hand-on-guide-to-kubernetes-custom-resource-definitions-crds-with-a-practical-example-%EF%B8%8F-84094861e90b?source=rss-15b2de10f77d------2)
 - [⎈ A Hand-On Guide to Kubernetes Pod Disruption Budget &lpar;PDB&rpar; ️](https://medium.com/@muppedaanvesh/a-hand-on-guide-to-kubernetes-pod-disruption-budget-pdb-%EF%B8%8F-ebe3155a4b7c?source=rss-15b2de10f77d------2)
 - [⚙️ A Hand-On Guide to Azure DevOps Pipeline Variable Types️](https://medium.com/@muppedaanvesh/%EF%B8%8F-a-hand-on-guide-to-azure-devops-pipeline-variable-types-%EF%B8%8F-a6992af85c6b?source=rss-15b2de10f77d------2)
-- [⎈ A Hand-On Guide to Kubernetes CronJobs ️](https://medium.com/@muppedaanvesh/a-hand-on-guide-to-kubernetes-cronjobs-%EF%B8%8F-47393a98716d?source=rss-15b2de10f77d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
