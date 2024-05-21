@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [⎈ A Hand-On Guide to Kubernetes Resource Quotas &amp; Limit Ranges ⚙️](https://medium.com/@muppedaanvesh/a-hand-on-guide-to-kubernetes-resource-quotas-limit-ranges-%EF%B8%8F-8b9f8cc770c5?source=rss-15b2de10f77d------2)
+- [Building Secure AWS VPC Networks with CloudFormation ️](https://medium.com/@muppedaanvesh/building-secure-aws-vpc-networks-with-cloudformation-%EF%B8%8F-d0b5e1c8f974?source=rss-15b2de10f77d------2)
+- [⎈ Rolling Update &amp; Recreate Deployment Strategies in Kubernetes ⚙️](https://medium.com/@muppedaanvesh/rolling-update-recreate-deployment-strategies-in-kubernetes-%EF%B8%8F-327b59f27202?source=rss-15b2de10f77d------2)
 - [⎈ Blue-Green Deployment in Kubernetes](https://medium.com/@muppedaanvesh/blue-green-deployment-in-kubernetes-76f9153e0805?source=rss-15b2de10f77d------2)
 - [⎈ A Hand-On Guide to Kubernetes Volumes ️](https://medium.com/@muppedaanvesh/a-hand-on-guide-to-kubernetes-volumes-%EF%B8%8F-b59d4d4e347f?source=rss-15b2de10f77d------2)
-- [TFVC to Git Migration in Azure DevOps ️](https://medium.com/@muppedaanvesh/tfvc-to-git-migration-in-azure-devops-%EF%B8%8F-23eeee7ce583?source=rss-15b2de10f77d------2)
-- [Azure DevOps: Creating a TFVC-Based Project ️](https://medium.com/@muppedaanvesh/azure-devops-creating-a-tfvc-based-project-%EF%B8%8F-6b86031260d1?source=rss-15b2de10f77d------2)
-- [⎈ A Hand-On Guide to Kubernetes RBAC With a User Creation ️](https://medium.com/@muppedaanvesh/a-hand-on-guide-to-kubernetes-rbac-with-a-user-creation-%EF%B8%8F-1ad9aa3cafb1?source=rss-15b2de10f77d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
