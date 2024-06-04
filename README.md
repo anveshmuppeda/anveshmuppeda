@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [⎈ A Hands-On Guide to Kubernetes Horizontal &amp; Vertical Pod Autoscalers ️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-horizontal-vertical-pod-autoscalers-%EF%B8%8F-58903382ef71?source=rss-15b2de10f77d------2)
 - [⎈ A Hands-On Guide to Kubernetes Priority Classes ️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-priority-classes-%EF%B8%8F-e4d37d789311?source=rss-15b2de10f77d------2)
 - [⎈ A Hands-On Guide to Kubernetes External Secrets Operator ️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-external-secrets-operator-%EF%B8%8F-6e630c2da25e?source=rss-15b2de10f77d------2)
 - [⎈ A Hands-On Guide to Vault in Kubernetes ⚙️](https://medium.com/@muppedaanvesh/a-hand-on-guide-to-vault-in-kubernetes-%EF%B8%8F-1daf73f331bd?source=rss-15b2de10f77d------2)
 - [⎈ A Hands-On Guide to Kubernetes Resource Quotas &amp; Limit Ranges ⚙️](https://medium.com/@muppedaanvesh/a-hand-on-guide-to-kubernetes-resource-quotas-limit-ranges-%EF%B8%8F-8b9f8cc770c5?source=rss-15b2de10f77d------2)
-- [Building Secure AWS VPC Networks with CloudFormation ️](https://medium.com/@muppedaanvesh/building-secure-aws-vpc-networks-with-cloudformation-%EF%B8%8F-d0b5e1c8f974?source=rss-15b2de10f77d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
