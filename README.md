@@ -19,11 +19,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [⎈ A Hands-On Guide to Kubernetes Horizontal &amp; Vertical Pod Autoscalers ️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-horizontal-vertical-pod-autoscalers-%EF%B8%8F-58903382ef71?source=rss-15b2de10f77d------2)
-- [⎈ A Hands-On Guide to Kubernetes Priority Classes ️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-priority-classes-%EF%B8%8F-e4d37d789311?source=rss-15b2de10f77d------2)
-- [⎈ A Hands-On Guide to Kubernetes External Secrets Operator ️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-external-secrets-operator-%EF%B8%8F-6e630c2da25e?source=rss-15b2de10f77d------2)
-- [⎈ A Hands-On Guide to Vault in Kubernetes ⚙️](https://medium.com/@muppedaanvesh/a-hand-on-guide-to-vault-in-kubernetes-%EF%B8%8F-1daf73f331bd?source=rss-15b2de10f77d------2)
-- [⎈ A Hands-On Guide to Kubernetes Resource Quotas &amp; Limit Ranges ⚙️](https://medium.com/@muppedaanvesh/a-hand-on-guide-to-kubernetes-resource-quotas-limit-ranges-%EF%B8%8F-8b9f8cc770c5?source=rss-15b2de10f77d------2)
+- [⎈ A Hands-On Guide: Setting Up Prometheus and AlertManager in Kubernetes with Custom Alerts ️](https://medium.com/@muppedaanvesh/a-hands-on-guide-setting-up-prometheus-and-alertmanager-in-kubernetes-with-custom-alerts-%EF%B8%8F-f9c6d37b27ca?source=rss-15b2de10f77d------2)
+- [⎈ A Hands-On Guide to Kubernetes: Deployments, StatefulSets, and DaemonSets ️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-deployments-statefulsets-and-daemonsets-%EF%B8%8F-20167634775d?source=rss-15b2de10f77d------2)
+- [⎈ A Hands-On Guide to Kubernetes Monitoring Using Prometheus &amp; Grafana️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-monitoring-using-prometheus-grafana-%EF%B8%8F-b0e00b1ae039?source=rss-15b2de10f77d------2)
+- [Getting Started with Go: An Introduction to Go Programming Language](https://medium.com/@muppedaanvesh/getting-started-with-go-an-introduction-to-go-programming-language-454e29d64d09?source=rss-15b2de10f77d------2)
+- [⎈ A Hands-On Guide to Kubernetes Endpoints &amp; EndpointSlices ️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-endpoints-endpointslices-%EF%B8%8F-1375dfc9075c?source=rss-15b2de10f77d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
