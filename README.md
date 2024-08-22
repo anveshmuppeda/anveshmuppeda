@@ -1,3 +1,7 @@
+<p align="center"><a href="https://anveshmuppeda.github.io"><img width="80%" alt="Hello, I'm Anvesh Muppeda. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 <h1 align="center">Hi 👋, I'm Anvesh Muppeda</h1>
 <h3 align="center">DevOps Engineer</h3>
 
