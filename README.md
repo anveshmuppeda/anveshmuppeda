@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anveshmuppeda&label=Profile%20views&color=0e75b6&style=flat" alt="anveshmuppeda" /> </p>
 … -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anveshmuppeda" alt="anveshmuppeda" /></a> </p>
+<p align="left"> <a href="https://github.com/anveshmuppeda/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anveshmuppeda" alt="anveshmuppeda" /></a> </p>
 
 - 🔭 I’m currently working on [ArgoCD](https://github.com/anveshmuppeda/kubernetes/tree/main/argocd)
 
