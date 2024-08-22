@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anveshmuppeda" alt="anveshmuppeda" /></a> </p>
 
-- 🔭 I’m currently working on [Docker in Docker](https://github.com/anveshmuppeda/az-devops-agents-k8s)
+- 🔭 I’m currently working on [ArgoCD](https://github.com/anveshmuppeda/kubernetes/tree/main/argocd)
 
-- 🌱 I’m currently learning **Docker in Docker, and Kubernetes In Docker**
+- 🌱 I’m currently learning **GitOps Tools: ArgoCD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anveshmuppeda](https://github.com/anveshmuppeda)
 
