@@ -1,5 +1,21 @@
 <p align="center"><a href="https://github.com/anveshmuppeda"><img width="80%" alt="Hello, I'm Anvesh Muppeda. I do open source!" src="./assets/github-read-header.png" /></a></p>
 
+#### Top Repositories
+
+<a href="https://github.com/anveshmuppeda/kubernetes">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=buefy" />
+</a>
+<a href="https://github.com/anveshmuppeda/az-devops-agents-k8s">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=az-devops-agents-k8s&theme=buefy" />
+</a>
+<a href="https://github.com/anveshmuppeda/kubernetes-ingress">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes-ingress&theme=buefy" />
+</a>
+<a href="https://github.com/anveshmuppeda/docker-login-page">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-login-page&theme=buefy" />
+</a>
+
+<br />
 <br />
 
 <!-- <h1 align="center">Hi 👋, I'm Anvesh Muppeda</h1>
