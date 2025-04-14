@@ -39,11 +39,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [⎈ Building an Echo Pod to Display Kubernetes Pod and Node Names ⎈](https://medium.com/@muppedaanvesh/building-an-echo-pod-to-display-kubernetes-pod-and-node-names-037801b27826?source=rss-15b2de10f77d------2)
-- [️ Kubernetes Ingress — Securing the Ingress Using Cert-Manager: PART-7](https://medium.com/@muppedaanvesh/%EF%B8%8F-kubernetes-ingress-securing-the-ingress-using-cert-manager-part-7-366f1f127fd6?source=rss-15b2de10f77d------2)
-- [⎈ A Hands-On Guide to Kubernetes Monitoring: Metrics and Logging with Grafana Loki ⚙️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-monitoring-metrics-and-logging-with-grafana-loki-%EF%B8%8F-010c12f0ffb6?source=rss-15b2de10f77d------2)
-- [⎈ A Hands-On Guide to Kubernetes Logging Using Grafana Loki ⚙️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-logging-using-grafana-loki-%EF%B8%8F-b8d37ea4de13?source=rss-15b2de10f77d------2)
-- [⎈ A Hands-On Guide to Kubernetes Logging Using ELK Stack &amp; Filebeat — PART 4 ⚙️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-kubernetes-logging-using-elk-stack-filebeat-part-4-%EF%B8%8F-48e233443961?source=rss-15b2de10f77d------2)
+- [⎈ Karpenter + EKS: The Smart Way to Scale ️](https://medium.com/@muppedaanvesh/karpenter-eks-the-smart-way-to-scale-%EF%B8%8F-cec53ab48260?source=rss-15b2de10f77d------2)
+- [⎈ A Hands-On Guide to AWS EKS IAM Roles for Service Accounts &lpar;IRSA&rpar; ️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-aws-eks-iam-roles-for-service-accounts-irsa-%EF%B8%8F-558c7a3e7c69?source=rss-15b2de10f77d------2)
+- [⎈ A Hands-On Guide to AWS EKS Pod Identity ️](https://medium.com/@muppedaanvesh/a-hands-on-guide-to-aws-eks-pod-identity-%EF%B8%8F-8e236b779d1a?source=rss-15b2de10f77d------2)
+- [EKS Debug with AI Assistant ️](https://medium.com/@muppedaanvesh/eks-debug-with-ai-assistant-%EF%B8%8F-7e235c46cace?source=rss-15b2de10f77d------2)
+- [Build a Docker-like Tool from Scratch: Create Your Own Container Runtime with Go ️](https://medium.com/@muppedaanvesh/build-a-docker-like-tool-from-scratch-create-your-own-container-runtime-with-go-%EF%B8%8F-8e915b5e4b60?source=rss-15b2de10f77d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
