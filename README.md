@@ -60,7 +60,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=aws&theme=radical" />
     </a>
     <a href="https://github.com/anveshmuppeda/docker-with-dotnet">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=ddocker-with-dotnet&theme=radical" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-with-dotnet&theme=radical" />
     </a>
   </p>
 
