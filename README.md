@@ -79,7 +79,6 @@
 </details>
 
 <br />
-<br />
 
 <!-- <h1 align="center">Hi 👋, I'm Anvesh Muppeda</h1>
 # <h3 align="center">DevOps Engineer</h3>
