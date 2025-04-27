@@ -42,7 +42,7 @@
 #### Top Repositories
 
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>  
+  <summary><h3 style="color:blue;">📘 My Top Open Source Projects</h3></summary>  
   <p align="center">
     <a href="https://github.com/anveshmuppeda/kubernetes">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=radical" />
