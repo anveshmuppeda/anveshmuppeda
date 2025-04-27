@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Relief&weight=900&duration=4000&pause=1000&color=1715F7&center=true&width=600&lines=I+am+a+Kubernetes+Developer" alt="Typing SVG" /></a>  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Coral+Pixels&weight=900&duration=4000&pause=1000&color=1715F7&center=true&width=600&lines=I+am+a+Kubernetes+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=italic&weight=900&duration=4000&pause=1000&color=1715F7&center=true&width=600&lines=I+am+a+Kubernetes+Developer" alt="Typing SVG" /></a>
 
 #### Top Repositories
 
