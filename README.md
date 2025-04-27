@@ -2,8 +2,7 @@
   <p align="center"><a href="https://github.com/anveshmuppeda"><img width="80%" alt="Hello, I'm Anvesh Muppeda. I do open source!" src="./assets/github-read-header.png" /></a></p>
   <a href="https://github.com/anveshmuppeda"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&duration=4000&pause=1000&color=1715F7&center=true&vCenter=true&width=600&lines=I+am+a+Kubernetes+Developer.....;I+do+open+source+%3A)" alt="Typing SVG" /></a>  
 </div>
-<br />  
-
+  
 <!--  
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
@@ -44,7 +43,7 @@
 -->  
 
 <details open> 
-  <summary><h3 style="color:blue;">📘 My Top Open Source Projects</h3></summary>  
+  <summary><h5 style="color:blue;">📘 My Top Open Source Projects</h3></summary>  
   <p align="center">
     <a href="https://github.com/anveshmuppeda/kubernetes">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=radical" />
@@ -64,9 +63,12 @@
     <a href="https://github.com/anveshmuppeda/docker-with-dotnet">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-with-dotnet&theme=radical" />
     </a>
+    <br />
   </p>
 
-  <a href="https://github.com/anveshmuppeda?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <p align="center">
+    <a href="https://github.com/anveshmuppeda?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  </p>
 </details>
 
 <br />
