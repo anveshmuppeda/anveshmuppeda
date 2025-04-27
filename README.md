@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/DockerHub-Profile-blue?logo=docker&style=flat" alt="DockerHub"/>
 </div>  
 
-<br />
 <!--  
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
@@ -50,7 +49,7 @@
 
 #### Top Repositories
 -->  
-<br />
+<p />
 
 <details open> 
   <summary><h5 style="color:blue;">📘 My Top Open Source Projects</h3></summary>  
