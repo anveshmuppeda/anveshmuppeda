@@ -56,7 +56,7 @@
     <a href="https://github.com/anveshmuppeda/docker-login-page">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-login-page&theme=radical" />
     </a>
-    <a href="https://github.com/anveshmuppeda/aws>
+    <a href="https://github.com/anveshmuppeda/aws">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=aws&theme=radical" />
     </a>
     <a href="https://github.com/anveshmuppeda/docker-with-dotnet">
