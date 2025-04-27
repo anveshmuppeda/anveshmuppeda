@@ -1,16 +1,6 @@
 <p align="center"><a href="https://github.com/anveshmuppeda"><img width="80%" alt="Hello, I'm Anvesh Muppeda. I do open source!" src="./assets/github-read-header.png" /></a></p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Relief&weight=900&duration=4000&pause=1000&color=1715F7&center=true&width=600&lines=I+am+a+Kubernetes+Developer" alt="Typing SVG" /></a>  
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=italic&weight=900&duration=4000&pause=1000&color=1715F7&center=true&width=600&lines=I+am+a+Kubernetes+Developer" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&weight=900&duration=4000&pause=1000&color=1715F7&center=true&width=600&lines=I+am+a+Kubernetes+Developer" alt="Typing SVG" /></a>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&weight=900&duration=4000&pause=1000&color=1715F7&center=true&width=600&lines=I+am+a+Kubernetes+Developer)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=4000&pause=1000&color=1715F7&center=true&width=600&lines=I+am+a+Kubernetes+Developer" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&duration=4000&pause=1000&color=1715F7&center=true&width=600&lines=I+am+a+Kubernetes+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&duration=4000&pause=1000&color=1715F7&center=true&vCenter=true&width=600&lines=I+am+a+Kubernetes+Developer.....;I+do+open+source+%3A)" alt="Typing SVG" /></a>
 
 #### Top Repositories
 
