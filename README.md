@@ -4,6 +4,41 @@
 </div>
 <br />  
 
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/anveshmuppeda/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/anveshmuppeda/kubernetes">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+      alt="readme-typing-svg">
+    </a>
+    <a href="https://github.com/anveshmuppeda/az-devops-agents-k8s">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=az-devops-agents-k8s&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+      alt="readme-typing-svg">
+    </a>
+    <a href="https://github.com/anveshmuppeda/kubernetes-ingress">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes-ingress&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+      alt="readme-typing-svg">
+    </a>
+    <a href="https://github.com/anveshmuppeda/docker-login-page">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-login-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+      alt="readme-typing-svg">
+    </a>
+    <a href="https://github.com/anveshmuppeda/aws">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=aws&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+      alt="readme-typing-svg">
+    </a>
+    <a href="https://github.com/anveshmuppeda/docker-with-dotnet">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-with-dotnet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+      alt="readme-typing-svg">
+    </a>
+  </p>
+
+  <a href="https://github.com/anveshmuppeda?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+
 #### Top Repositories
 
 <a href="https://github.com/anveshmuppeda/kubernetes">
