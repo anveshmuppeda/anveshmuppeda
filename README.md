@@ -51,7 +51,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes-ingress&theme=gruvbox" />
 </a>
 <a href="https://github.com/anveshmuppeda/docker-login-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-login-page&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-login-page&theme=merko" />
 </a>
 
 <br />
