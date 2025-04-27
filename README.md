@@ -4,6 +4,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=italic&weight=900&duration=4000&pause=1000&color=1715F7&center=true&width=600&lines=I+am+a+Kubernetes+Developer" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&weight=900&duration=4000&pause=1000&color=1715F7&center=true&width=600&lines=I+am+a+Kubernetes+Developer" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&weight=900&duration=4000&pause=1000&color=1715F7&center=true&width=600&lines=I+am+a+Kubernetes+Developer)](https://git.io/typing-svg)
+
 #### Top Repositories
 
 <a href="https://github.com/anveshmuppeda/kubernetes">
