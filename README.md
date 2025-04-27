@@ -41,18 +41,31 @@
 
 #### Top Repositories
 
-<a href="https://github.com/anveshmuppeda/kubernetes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=radical" />
-</a>
-<a href="https://github.com/anveshmuppeda/az-devops-agents-k8s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=az-devops-agents-k8s&theme=radical" />
-</a>
-<a href="https://github.com/anveshmuppeda/kubernetes-ingress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes-ingress&theme=radical" />
-</a>
-<a href="https://github.com/anveshmuppeda/docker-login-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-login-page&theme=radical" />
-</a>
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>  
+  <p align="center">
+    <a href="https://github.com/anveshmuppeda/kubernetes">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=radical" />
+    </a>
+    <a href="https://github.com/anveshmuppeda/az-devops-agents-k8s">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=az-devops-agents-k8s&theme=radical" />
+    </a>
+    <a href="https://github.com/anveshmuppeda/kubernetes-ingress">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes-ingress&theme=radical" />
+    </a>
+    <a href="https://github.com/anveshmuppeda/docker-login-page">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-login-page&theme=radical" />
+    </a>
+    <a href="https://github.com/anveshmuppeda/aws>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=aws&theme=radical" />
+    </a>
+    <a href="https://github.com/anveshmuppeda/docker-with-dotnet">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=ddocker-with-dotnet&theme=radical" />
+    </a>
+  </p>
+
+  <a href="https://github.com/anveshmuppeda?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
 
 <br />
 <br />
