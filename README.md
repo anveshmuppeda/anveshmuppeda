@@ -1,21 +1,83 @@
-<p align="center"><a href="https://github.com/anveshmuppeda"><img width="80%" alt="Hello, I'm Anvesh Muppeda. I do open source!" src="./assets/github-read-header.png" /></a></p>
+<div align="center">
+  <p align="center"><a href="https://github.com/anveshmuppeda"><img width="80%" alt="Hello, I'm Anvesh Muppeda. I do open source!" src="./assets/github-read-header.png" /></a></p>
+  <a href="https://github.com/anveshmuppeda"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&duration=4000&pause=1000&color=1715F7&center=true&vCenter=true&width=600&lines=I+am+a+Kubernetes+Developer.....;I+do+open+source+%3A)" alt="Typing SVG" /></a>  
+  <br>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=flat" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/Medium-Blog-black?logo=medium&style=flat" alt="Medium"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=flat" alt="Email"/>
+  <img src="https://img.shields.io/badge/DockerHub-Profile-blue?logo=docker&style=flat" alt="DockerHub"/>
+</div>  
+
+<!--  
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+
+  Repo info cards - https://github.com/anuraghazra/github-readme-stats  
+  Small repo cards (fork) - https://github.com/anveshmuppeda/github-readme-stats
+  <p align="center">
+    <a href="https://github.com/anveshmuppeda/kubernetes">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+      alt="readme-typing-svg">
+    </a>
+    <a href="https://github.com/anveshmuppeda/az-devops-agents-k8s">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=az-devops-agents-k8s&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+      alt="readme-typing-svg">
+    </a>
+    <a href="https://github.com/anveshmuppeda/kubernetes-ingress">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes-ingress&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+      alt="readme-typing-svg">
+    </a>
+    <a href="https://github.com/anveshmuppeda/docker-login-page">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-login-page&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+      alt="readme-typing-svg">
+    </a>
+    <a href="https://github.com/anveshmuppeda/aws">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=aws&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+      alt="readme-typing-svg">
+    </a>
+    <a href="https://github.com/anveshmuppeda/docker-with-dotnet">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-with-dotnet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
+      alt="readme-typing-svg">
+    </a>
+  </p>
+
+  <a href="https://github.com/anveshmuppeda?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
 
 #### Top Repositories
+-->  
+<p />
 
-<a href="https://github.com/anveshmuppeda/kubernetes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=buefy" />
-</a>
-<a href="https://github.com/anveshmuppeda/az-devops-agents-k8s">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=az-devops-agents-k8s&theme=buefy" />
-</a>
-<a href="https://github.com/anveshmuppeda/kubernetes-ingress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes-ingress&theme=buefy" />
-</a>
-<a href="https://github.com/anveshmuppeda/docker-login-page">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-login-page&theme=buefy" />
-</a>
+<details open> 
+  <summary><h5>🚀 My Top Open Source Projects</h3></summary>  
+  <p align="center">
+    <a href="https://github.com/anveshmuppeda/kubernetes">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=radical" />
+    </a>
+    <a href="https://github.com/anveshmuppeda/az-devops-agents-k8s">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=az-devops-agents-k8s&theme=radical" />
+    </a>
+    <a href="https://github.com/anveshmuppeda/kubernetes-ingress">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes-ingress&theme=radical" />
+    </a>
+    <a href="https://github.com/anveshmuppeda/docker-login-page">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-login-page&theme=radical" />
+    </a>
+    <a href="https://github.com/anveshmuppeda/aws">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=aws&theme=radical" />
+    </a>
+    <a href="https://github.com/anveshmuppeda/docker-with-dotnet">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=docker-with-dotnet&theme=radical" />
+    </a>
+    <br />
+  </p>
 
-<br />
+  <p align="center">
+    <a href="https://github.com/anveshmuppeda?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  </p>
+</details>
+
 <br />
 
 <!-- <h1 align="center">Hi 👋, I'm Anvesh Muppeda</h1>
@@ -25,9 +87,9 @@
 … -->
 
 
-- 🔭 I’m currently working on [ArgoCD](https://github.com/anveshmuppeda/kubernetes/tree/main/argocd)
+- 🔭 I’m currently working on [Kubernetes](https://github.com/anveshmuppeda/kubernetes)
 
-- 🌱 I’m currently learning **GitOps Tools: ArgoCD**
+- 🌱 I’m currently learning **GitOps Tools**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anveshmuppeda](https://github.com/anveshmuppeda)
 
