@@ -4,6 +4,7 @@
 </div>
 <br />  
 
+<!--
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
@@ -40,6 +41,7 @@
 </details>
 
 #### Top Repositories
+-->  
 
 <details open> 
   <summary><h3 style="color:blue;">📘 My Top Open Source Projects</h3></summary>  
