@@ -4,12 +4,12 @@
 </div>
 <br />  
 
-<!--
+<!--  
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/anveshmuppeda/github-readme-stats -->
+  Repo info cards - https://github.com/anuraghazra/github-readme-stats  
+  Small repo cards (fork) - https://github.com/anveshmuppeda/github-readme-stats
   <p align="center">
     <a href="https://github.com/anveshmuppeda/kubernetes">
       <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" 
