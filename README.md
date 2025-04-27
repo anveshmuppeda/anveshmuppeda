@@ -50,7 +50,7 @@
 <p />
 
 <details open> 
-  <summary><h5 style="color:blue;">📘 My Top Open Source Projects</h3></summary>  
+  <summary><h5>🚀 My Top Open Source Projects</h3></summary>  
   <p align="center">
     <a href="https://github.com/anveshmuppeda/kubernetes">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=radical" />
