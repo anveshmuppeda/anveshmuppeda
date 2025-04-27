@@ -42,7 +42,7 @@
 #### Top Repositories
 
 <a href="https://github.com/anveshmuppeda/kubernetes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=kubernetes&theme=radical" />
 </a>
 <a href="https://github.com/anveshmuppeda/az-devops-agents-k8s">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anveshmuppeda&repo=az-devops-agents-k8s&theme=buefy" />
