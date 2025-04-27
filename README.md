@@ -1,7 +1,8 @@
 <div align="center">
   <p align="center"><a href="https://github.com/anveshmuppeda"><img width="80%" alt="Hello, I'm Anvesh Muppeda. I do open source!" src="./assets/github-read-header.png" /></a></p>
   <a href="https://github.com/anveshmuppeda"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&duration=4000&pause=1000&color=1715F7&center=true&vCenter=true&width=600&lines=I+am+a+Kubernetes+Developer.....;I+do+open+source+%3A)" alt="Typing SVG" /></a>  
-
+</dev>
+<div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn"/>
   <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=flat" alt="Twitter"/>
   <img src="https://img.shields.io/badge/Medium-Blog-black?logo=medium&style=flat" alt="Medium"/>
