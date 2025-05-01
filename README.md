@@ -2,11 +2,11 @@
   <p align="center"><a href="https://github.com/anveshmuppeda"><img width="80%" alt="Hello, I'm Anvesh Muppeda. I do open source!" src="./assets/github-read-header.png" /></a></p>
   <a href="https://github.com/anveshmuppeda"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&duration=4000&pause=1000&color=1715F7&center=true&vCenter=true&width=600&lines=I+am+a+Kubernetes+Developer.....;I+do+open+source+%3A)" alt="Typing SVG" /></a>  
   <br>
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn"/>
-  <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=flat" alt="Twitter"/>
-  <img src="https://img.shields.io/badge/Medium-Blog-black?logo=medium&style=flat" alt="Medium"/>
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=flat" alt="Email"/>
-  <img src="https://img.shields.io/badge/DockerHub-Profile-blue?logo=docker&style=flat" alt="DockerHub"/>
+  <a href="https://www.linkedin.com/in/anveshmuppeda/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat" alt="LinkedIn"/> </a>
+  <a href="https://twitter.com/Anvesh66743877"> <img src="https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter&style=flat" alt="Twitter"/> </a>
+  <a href="https://medium.com/@muppedaanvesh"> <img src="https://img.shields.io/badge/Medium-Blog-black?logo=medium&style=flat" alt="Medium"/> </a>
+  <a href="mailto:muppedaanvesh@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=flat" alt="Email"/> </a>
+  <a href="https://hub.docker.com/u/anvesh35"> <img src="https://img.shields.io/badge/DockerHub-Profile-blue?logo=docker&style=flat" alt="DockerHub"/> </a>
 </div>  
 
 <!--  
